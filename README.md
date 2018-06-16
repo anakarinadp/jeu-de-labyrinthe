@@ -13,11 +13,10 @@ The player moves with the following commands:
 - S : down
 - O : lef
 - E : right
+
 These commands can also be used followed by a number to move the robot several positions. For example:
 
-S3
-
-this command moves the robot 3 positions down
+S3 (this command moves the robot 3 positions down)
 
 "Q" is to quit the game
 
