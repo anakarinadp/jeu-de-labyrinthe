@@ -17,4 +17,4 @@ The player moves with the following commands:
 "Q" is to quit the game
 
 In order to execute the game, place yourself into the folder of the project and execute in the command line:
-- python roboc.py
+>python roboc.py
