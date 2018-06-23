@@ -1,4 +1,4 @@
-# jeu-de-labyrinthe
+# labyrinth-game
 
 This is a labyrinth game project developped for the Open Classrooms course "Apprenez à programmer en Python"
 
